@@ -1,4 +1,4 @@
-class Attributes(Tekky):
+class Attributes(jspluspy):
 	@staticmethod
 	def contact() -> tuple:
 	    discord  = "v1snj4#2663"
